@@ -1,0 +1,23 @@
+[
+    {
+    "name":"hema",
+    "age":10,
+    "address":{
+        "addressline1":"123 main st",
+        "addressline2":"xyz aprt",
+        "addressline3":"florida"
+    },
+    "email":"hema04.com"
+},
+
+{
+"name":"adam",
+"age":20,
+"address":{
+   "addressline1":"123 main st",
+   "addressline2":"xyz aprt",
+   "addressline3":"LA"
+},
+"email":"adam08.com"
+}
+]
