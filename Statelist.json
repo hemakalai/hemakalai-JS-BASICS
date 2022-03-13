@@ -1,0 +1,112 @@
+[
+    {
+    "name":"Alabama",
+    "cities":{
+        "capital":"Montgomery",
+        "largest":"Huntsville"
+    },
+    "population": 5024279 ,
+    "total area": 135767,
+    "land area":1477953,
+    "water area":4597
+},
+{
+    "name":"Alaska",
+    "cities":{
+        "capital":"Juneau",
+        "largest":"Anchorage"
+    },
+    "population":131171,
+    "total area":135767,
+    "land area":4597,
+    "water area":245384
+},
+{
+    "name":"Arizona",
+    "cities":{
+        "capital":"Phoenix",
+        "largest":"Phoenix"
+    },
+    "population":5024279,
+    "total area":135767,
+    "land area":4597,
+    "water area":1026
+},
+{
+    "name":"Arkansas",
+    "cities":{
+        "capital":"Little Rock",
+        "largest":"Little Rock"
+    },
+    "population":5024279,
+    "total area":135767,
+    "land area":4597,
+    "water area":2961
+},
+{
+    "name":"California",
+    "cities":{
+        "capital":"Sacramento",
+        "largest":"Los Angeles"
+    },
+    "population":5024279,
+    "total area":135767,
+    "land area":4597,
+    "water area":20501
+},
+{
+    "name":"Colorado",
+    "cities":{
+        "capital":"Denver",
+        "largest":"Denver"
+    },
+    "population":5024279,
+    "total area":135767,
+    "land area":4597,
+    "water area":1170
+},
+{
+    "name":"Connecticut",
+    "cities":{
+        "capital":"Hartford",
+        "largest":"Bridgeport"
+    },
+    "population":5024279,
+    "total area":135767,
+    "land area":4597,
+    "water area":1816
+},
+{
+    "name":"Delaware",
+    "cities":{
+        "capital":"Donver",
+        "largest":"Wilmington"
+    },
+    "population":5024279,
+    "total area":135767,
+    "land area":4597,
+    "water area":1399
+},
+{
+    "name":"Florida",
+    "cities":{
+        "capital":"Tallahassee",
+        "largest":"Jacksonville"
+    },
+    "population":5024279,
+    "total area":6446,
+    "land area":4597,
+    "water area":31424
+},
+{
+    "name":"Georgia",
+    "cities":{
+        "capital":"Atlanta",
+        "largest":"Atlanta"
+    },
+    "population":5024279,
+    "total area":170312,
+    "land area":57513,
+    "water area":4951
+}
+]
