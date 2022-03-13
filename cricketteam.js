@@ -58,6 +58,7 @@ const india={
     }
 }
 
+console.log(india.Teamname);
 console.log(india.Sponsorship);
 console.log(india.Captain);
 console.log(india.player6);

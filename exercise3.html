@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <h1>Addition of numbers</h1>
+        <label for="action">select your operation</label>
+        <select id="action">
+            <option value=""></option> 
+            <option value="Add">Addition</option>
+            <option value="Multipy">Multiplication</option>
+        </select>
+        <div>
+            <label for="var1">Please enter you first number:</label>
+            <input type="number" name="var1" id="var1">
+        </div>
+        <div>
+            <label for="var2">Please enter you second number:</label>
+            <input type="number" name="var2" id="var2">
+        </div>
+        
+            <button onclick="performAction()">Action</button>
+        
+        <p id="finalvalue" style="color: green">
+        </p>
+    </div>
+    
+</body>
+<script>
+    function performAction() {
+        const selectvalue = document.getElementById('action').Value
+        let num3 = 0
+        const num1 = document.getElementById('var1').Value
+        const num2 = document.getElementById('var2').Value
+        if(selectedvalue == 'Add') {
+            num3 = parseInt(num1,10)+ parseInt(num2,10)
+        }else {
+            num3 = parseInt(num1,10)* parseInt(num2,10)
+        }
+        document.getElementById('finalvalue').innerText = num3
+    }
+</script>
+</html>
